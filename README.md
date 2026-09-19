@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rakesh Sharma
 
-### VP – Cybersecurity | Enterprise Security | Cloud | AI | OT/ICS | DevSecOps
+### AVP – Cybersecurity | Enterprise Security | Cloud | AI | OT/ICS | DevSecOps
 
 **Building resilient security programs across Enterprise, Cloud, AI, and Operational Technology environments.**
 
