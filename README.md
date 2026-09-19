@@ -285,7 +285,7 @@ Let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakish-sharma)
 
-[![GitHub](https://img.shields.io/badge/GitHub-rakeshsharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshsharma)
+[![GitHub](https://img.shields.io/badge/GitHub-rakeshsharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakish-1)
 
 </div>
 
