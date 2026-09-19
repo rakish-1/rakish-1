@@ -25,7 +25,7 @@
 
 🏭 I’m expanding my work into **OT / ICS & Critical Infrastructure Security**
 
-💡 Ask me about **MITRE ATT&CK, Detection Engineering, Incident Response & Threat-Led Defense**
+💡 Ask me about **MITRE ATT&CK, Detection Engineering, Incident Response, PenTesting & Threat-Led Defense**
 
 ⚡ **Security is a continuous process of understanding threats, improving visibility, and building resilience.**
 
