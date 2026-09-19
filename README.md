@@ -8,8 +8,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshsharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshsharma/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakish-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakish-sharma)
 
 </div>
 
@@ -257,9 +257,9 @@ Bridging offensive and defensive security to validate detection coverage and imp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakeshsharma&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rakish-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshsharma&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakish-1&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
@@ -269,7 +269,7 @@ Bridging offensive and defensive security to validate detection coverage and imp
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rakeshsharma&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rakish-1&theme=github-dark-blue&hide_border=true)
 
 </div>
 
@@ -283,9 +283,9 @@ Bridging offensive and defensive security to validate detection coverage and imp
 
 Let's connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakish-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakish-sharma)
 
-[![GitHub](https://img.shields.io/badge/GitHub-rakeshsharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakish-1)
+[![GitHub](https://img.shields.io/badge/GitHub-rakish--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakish-1)
 
 </div>
 
