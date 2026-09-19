@@ -253,18 +253,6 @@ Bridging offensive and defensive security to validate detection coverage and imp
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakish-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakish-1&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
